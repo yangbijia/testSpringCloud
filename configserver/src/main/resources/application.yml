@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: configserver
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: https://github.com/yangbijia/springCloudRepo
+          searchPaths: respo
+          username:
+          password:
+          force-pull: true
+
+server:
+  port: 8888

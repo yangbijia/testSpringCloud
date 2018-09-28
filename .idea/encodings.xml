@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekabase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurekaservicecluster" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feignserivce" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feignserivcebase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbonservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ribbonservicebase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkinclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkinserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkinservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuulservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuulservicebase" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaclient/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekabase/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbonservicebase/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbonservice/pom.xml" />
+        <option value="$PROJECT_DIR$/feignserivce/pom.xml" />
+        <option value="$PROJECT_DIR$/feignserivcebase/pom.xml" />
+        <option value="$PROJECT_DIR$/zuulservicebase/pom.xml" />
+        <option value="$PROJECT_DIR$/zuulservice/pom.xml" />
+        <option value="$PROJECT_DIR$/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/configclient/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkinclient/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkinservice/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaservicecluster/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/eurekaClient/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaServer/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
