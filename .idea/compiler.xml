@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="configclient" />
         <module name="configserver" />
+        <module name="eureka-hi" />
         <module name="eurekaclient" />
         <module name="eurekaserver" />
         <module name="eurekaservicecluster" />
