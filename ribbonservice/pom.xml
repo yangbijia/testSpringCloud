@@ -15,7 +15,7 @@
 		<groupId>com</groupId>
 		<artifactId>ribbonservicebase</artifactId>
 		<version>1.0-SNAPSHOT</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath>../ribbonservicebase</relativePath>
 	</parent>
 
 	<dependencies>

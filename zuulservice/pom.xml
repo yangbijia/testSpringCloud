@@ -15,7 +15,7 @@
 		<groupId>com.example</groupId>
 		<artifactId>zuulservicebase</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath>../zuulservicebase</relativePath>
 	</parent>
 
 	<dependencies>

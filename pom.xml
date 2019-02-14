@@ -9,9 +9,22 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>eurekaserver</module>
+        <module>configserver</module>
+        <module>configclient</module>
+        <module>eurekaServer</module>
         <module>eurekaclient</module>
+        <module>eureka-hi</module>
+        <module>eureka-hi-daShboard</module>
         <module>eurekaBase</module>
+        <module>eurekaServiceCluster</module>
+        <module>feignService</module>
+        <module>feignServiceBase</module>
+        <module>ribbonService</module>
+        <module>ribbonServiceBase</module>
+        <module>zipkinClient</module>
+        <module>zipkinService</module>
+        <module>zuulService</module>
+        <module>zuulServiceBase</module>
     </modules>
 
 

@@ -1,0 +1,22 @@
+spring:
+  application:
+    name: eureka-hi-dashboard
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+server:
+  port: 8803
+
+turbine:
+  #监控的应用名
+  app-config: eureka-hi-hystrix1,eureka-hi-hystrix2
+  #监控集群的名字
+  cluster-name-expression: "'default'"
+  #同一主机下通过host+port来区分服务
+  combine-host-port: true
+  #turbine收集端点
+  instanceUrlSuffix: /hystrix.stream
+  aggregator:
+    cluster-config: default
+

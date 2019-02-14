@@ -8,18 +8,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="configclient" />
         <module name="configserver" />
+        <module name="consulservice" />
         <module name="eureka-hi" />
+        <module name="eureka-hi-dashboard" />
         <module name="eurekaclient" />
         <module name="eurekaserver" />
         <module name="eurekaservicecluster" />
-        <module name="feignserivce" />
-        <module name="feignserivcebase" />
+        <module name="feignservice" />
         <module name="ribbonservice" />
-        <module name="ribbonservicebase" />
         <module name="zipkinclient" />
         <module name="zipkinservice" />
         <module name="zuulservice" />
-        <module name="zuulservicebase" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

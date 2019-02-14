@@ -20,6 +20,8 @@
         <option value="$PROJECT_DIR$/zipkinservice/pom.xml" />
         <option value="$PROJECT_DIR$/eurekaservicecluster/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-hi-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/consulservice/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

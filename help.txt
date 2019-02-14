@@ -1,0 +1,12 @@
+mvn clean
+mvn packege docker:build
+
+
+docker run --name eurekaserver -p 8761:8761 -t forezp/eurekaserver
+docker run --link eurekaserver:8761 -p 8762:8762 -t forezp/eureka-hi
+
+docker-compose up
+
+将Dockerfile移到eureka-server和eureka-hi的主目录，改写ADD的相对路径
+ADD ./target/eureka-server-0.0.1-SNAPSHOT.jar app.jar
+

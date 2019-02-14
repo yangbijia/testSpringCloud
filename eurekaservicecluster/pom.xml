@@ -15,6 +15,7 @@
 		<groupId>com</groupId>
 		<artifactId>eurekabase</artifactId>
 		<version>1.0-SNAPSHOT</version>
+		<relativePath>../eurekabase</relativePath>
 	</parent>
 
 

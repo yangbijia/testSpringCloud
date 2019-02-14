@@ -2,8 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ede9fee0-4703-4e00-b839-fb87d124616d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-hi-dashboard/src/main/java/com/example/eurekahidashboard/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-hi-dashboard/src/main/java/com/example/eurekahidashboard/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-hi-dashboard/src/main/java/com/example/eurekahidashboard/HelloWorldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-hi-dashboard/src/main/java/com/example/eurekahidashboard/HystrixConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-hi-dashboard/src/main/java/com/example/eurekahidashboard/MyHystrixCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-hi-dashboard/src/main/resources/application-hystrix2.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka-hi-dashboard/src/main/resources/application-hystrixdashboard.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/feignservicebase/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/help.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-hi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-hi/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-hi/src/main/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-hi/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-hi/src/main/java/com/example/demo/EurekahiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-hi/src/main/java/com/example/demo/EurekahiApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eureka-hi/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-hi/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaclient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaclient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaserver/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaserver/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaserver/src/main/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaserver/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaserver/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaserver/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eurekaservicecluster/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eurekaservicecluster/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivce/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/feignservice/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivce/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/feignservice/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivce/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/feignservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivce/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/feignservice/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivce/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/feignservice/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivce/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feignservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivce/src/main/java/com/example/demo/FeignSerivceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/feignservice/src/main/java/com/example/demo/FeignSerivceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivce/src/main/java/com/example/demo/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/feignservice/src/main/java/com/example/demo/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivce/src/main/java/com/example/demo/hystriximpl/SchedualServiceHiHystrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/feignservice/src/main/java/com/example/demo/hystriximpl/SchedualServiceHiHystrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivce/src/main/java/com/example/demo/interfaces/ISchedualServiceHi.java" beforeDir="false" afterPath="$PROJECT_DIR$/feignservice/src/main/java/com/example/demo/interfaces/ISchedualServiceHi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivce/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/feignservice/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivce/src/test/java/com/example/demo/FeignSerivceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/feignservice/src/test/java/com/example/demo/FeignSerivceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivcebase/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/feignservicebase/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivcebase/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/feignservicebase/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivcebase/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/feignservicebase/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivcebase/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/feignservicebase/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivcebase/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/feignservicebase/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivcebase/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feignservicebase/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivcebase/src/main/java/com/example/demo/FeignSerivceBaseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/feignservicebase/src/main/java/com/example/demo/FeignSerivceBaseApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivcebase/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feignserivcebase/src/test/java/com/example/demo/FeignSerivceBaseApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/feignservicebase/src/test/java/com/example/demo/FeignSerivceBaseApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ribbonservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ribbonservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ribbonservicebase/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ribbonservicebase/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSringCloud.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuulservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zuulservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zuulservicebase/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zuulservicebase/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,77 +73,140 @@
     <ignored path="$PROJECT_DIR$/zipkinservice/target/" />
     <ignored path="$PROJECT_DIR$/eurekaservicecluster/target/" />
     <ignored path="$PROJECT_DIR$/eureka-hi/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-hi-dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/feignservice/target/" />
+    <ignored path="$PROJECT_DIR$/feignservicebase/target/" />
+    <ignored path="$PROJECT_DIR$/consulservice/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1066894839">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="2" />
+          <entry key="class" value="41" />
+          <entry key="cmd" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="42" />
+          <entry key="json" value="1" />
+          <entry key="mvnw" value="1" />
+          <entry key="pom" value="7" />
+          <entry key="properties" value="2" />
+          <entry key="txt" value="2" />
+          <entry key="xml" value="34" />
+          <entry key="yml" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="41" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="42" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="41" />
+          <entry key="YAML" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Dockerfile" value="11" />
+          <entry key="ft" value="100" />
+          <entry key="java" value="882" />
+          <entry key="txt" value="149" />
+          <entry key="xml" value="126" />
+          <entry key="yml" value="1123" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Dockerfile" value="5" />
+          <entry key="JAVA" value="882" />
+          <entry key="PLAIN_TEXT" value="155" />
+          <entry key="VTL" value="100" />
+          <entry key="XML" value="126" />
+          <entry key="YAML" value="1123" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="testSringCloud" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eurekaserver/src/main/docker/Dockerfile">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/consulservice/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="11" />
+            <state relative-caret-position="349">
+              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-hi/src/main/docker/Dockerfile">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consulservice/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+            <state relative-caret-position="30">
+              <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eurekaserver/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1011">
-              <caret line="55" column="12" selection-start-line="13" selection-start-column="4" selection-end-line="55" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eurekabase/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-152">
-              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eurekaclient/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-hi/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eureka-hi/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="60">
+              <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consulservice/src/main/java/com/example/consulservice/ConsulServiceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka-hi/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -111,9 +224,21 @@
     <findStrings>
       <find>8768</find>
       <find>877</find>
+      <find>880</find>
+      <find>config</find>
+      <find>${</find>
+      <find>springCloudRepo</find>
+      <find>s</find>
+      <find>baSe</find>
+      <find>8771</find>
     </findStrings>
+    <replaceStrings>
+      <replace>S</replace>
+      <replace>Base</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>E:\intelij\testSringCloud</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -122,59 +247,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ribbonservicebase/pom.xml" />
-        <option value="$PROJECT_DIR$/eurekaclient/src/main/resources/application-peer2.yml" />
-        <option value="$PROJECT_DIR$/eurekaclient/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/feignserivce/pom.xml" />
-        <option value="$PROJECT_DIR$/feignserivce/src/main/java/com/example/demo/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/feignserivce/src/main/java/com/example/demo/FeignSerivceApplication.java" />
-        <option value="$PROJECT_DIR$/ribbonservice/pom.xml" />
-        <option value="$PROJECT_DIR$/ribbonservice/src/main/java/com/example/demo/RibbonServiceApplication.java" />
-        <option value="$PROJECT_DIR$/feignserivce/src/main/java/com/example/demo/interfaces/ISchedualServiceHi.java" />
-        <option value="$PROJECT_DIR$/feignserivce/src/main/java/com/example/demo/hystriximpl/SchedualServiceHiHystrix.java" />
-        <option value="$PROJECT_DIR$/feignserivce/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/zuulservice/pom.xml" />
-        <option value="$PROJECT_DIR$/zuulservice/src/main/java/com/example/demo/ZuulServiceApplication.java" />
-        <option value="$PROJECT_DIR$/zuulservice/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/ribbonservice/src/main/java/com/example/demo/service/HelloService.java" />
-        <option value="$PROJECT_DIR$/zuulservice/src/main/java/com/example/demo/filter/MyFilter.java" />
-        <option value="$PROJECT_DIR$/configclient/src/main/java/com/example/demo/controller/HelloController.java" />
-        <option value="$PROJECT_DIR$/configclient/src/main/resources/bootstrap.properties" />
-        <option value="$PROJECT_DIR$/configserver/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/configserver/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/configclient/src/main/resources/11bootstrap.properties" />
-        <option value="$PROJECT_DIR$/configserver/pom.xml" />
-        <option value="$PROJECT_DIR$/configserver/src/main/java/com/example/demo/ConfigserverApplication.java" />
-        <option value="$PROJECT_DIR$/configclient/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/configclient/src/main/resources/application-client1.yml" />
-        <option value="$PROJECT_DIR$/configclient/pom.xml" />
-        <option value="$PROJECT_DIR$/configclient/src/main/java/com/example/demo/ConfigClientApplication.java" />
-        <option value="$PROJECT_DIR$/zipkinserver/pom.xml" />
-        <option value="$PROJECT_DIR$/zipkinserver/src/main/java/com/example/demo/ZipkinServerApplication.java" />
-        <option value="$PROJECT_DIR$/zipkinclient/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/zipkinclient/pom.xml" />
-        <option value="$PROJECT_DIR$/zipkinservice/pom.xml" />
         <option value="$PROJECT_DIR$/zipkinclient/src/main/java/com/example/demo/ZipkinClientApplication.java" />
         <option value="$PROJECT_DIR$/zipkinservice/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/zipkinservice/src/main/java/com/example/demo/ZipkinServiceApplication.java" />
         <option value="$PROJECT_DIR$/eurekaserver/src/main/resources/application-peer1.yml" />
         <option value="$PROJECT_DIR$/eurekaserver/src/main/resources/application-peer2.yml" />
-        <option value="$PROJECT_DIR$/eurekaservicecluster/pom.xml" />
         <option value="$PROJECT_DIR$/eurekaservicecluster/src/main/java/com/example/demo/EurekaServiceClusterApplication.java" />
         <option value="$PROJECT_DIR$/eurekaservicecluster/src/main/resources/application-peer3.yml" />
         <option value="$PROJECT_DIR$/eurekaservicecluster/src/main/resources/application-peer1.yml" />
         <option value="$PROJECT_DIR$/eurekaservicecluster/src/main/resources/application-peer2.yml" />
         <option value="$PROJECT_DIR$/eurekaclient/src/main/resources/application-peer1.yml" />
         <option value="$PROJECT_DIR$/eurekaclient/src/main/java/com/example/demo/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/eurekaserver/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/eurekaserver/src/main/docker/dockerFile" />
         <option value="$PROJECT_DIR$/eurekabase/pom.xml" />
-        <option value="$PROJECT_DIR$/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-hi-dashboard/src/main/java/com/example/eurekahidashboard/HystrixConfig.java" />
+        <option value="$PROJECT_DIR$/eureka-hi-dashboard/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureka-hi-dashboard/src/main/java/com/example/eurekahidashboard/BaseController.java" />
+        <option value="$PROJECT_DIR$/eureka-hi-dashboard/src/main/resources/application-hystrix.yml" />
+        <option value="$PROJECT_DIR$/eureka-hi-dashboard/src/main/java/com/example/eurekahidashboard/HelloController.java" />
+        <option value="$PROJECT_DIR$/eureka-hi-dashboard/src/main/resources/application-hystrix2.yml" />
+        <option value="$PROJECT_DIR$/eureka-hi-dashboard/src/main/java/com/example/eurekahidashboard/EurekaHiDashboardApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-hi-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-hi-dashboard/src/main/resources/application-hystrixdashboard.yml" />
+        <option value="$PROJECT_DIR$/eureka-hi-dashboard/src/main/resources/application-hystrix1.yml" />
+        <option value="$PROJECT_DIR$/eureka-hi-dashboard/src/main/java/com/example/eurekahidashboard/HelloWorldController.java" />
+        <option value="$PROJECT_DIR$/eureka-hi-dashboard/src/main/java/com/example/eurekahidashboard/MyHystrixCommand.java" />
+        <option value="$PROJECT_DIR$/eurekaclient/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaservicecluster/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbonservice/pom.xml" />
+        <option value="$PROJECT_DIR$/feignserivce/pom.xml" />
+        <option value="$PROJECT_DIR$/zuulservice/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ribbonservicebase/pom.xml" />
+        <option value="$PROJECT_DIR$/feignserivcebase/pom.xml" />
+        <option value="$PROJECT_DIR$/zuulservicebase/pom.xml" />
+        <option value="$PROJECT_DIR$/feignservice/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-hi/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-hi/src/main/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/eurekaserver/src/main/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/cmd.txt" />
+        <option value="$PROJECT_DIR$/eureka-hi/src/main/java/com/example/demo/EurekahiApplication.java" />
+        <option value="$PROJECT_DIR$/docker-compose-dev.yml" />
+        <option value="$PROJECT_DIR$/eurekaserver/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/eureka-hi/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/eurekaserver/Dockerfile" />
+        <option value="$PROJECT_DIR$/eureka-hi/Dockerfile" />
+        <option value="$PROJECT_DIR$/help.txt" />
+        <option value="$PROJECT_DIR$/consulservice/pom.xml" />
+        <option value="$PROJECT_DIR$/consulservice/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/consulservice/src/main/java/com/example/consulservice/ConsulServiceApplication.java" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -191,6 +322,15 @@
   <component name="MavenProjectNavigator">
     <treeState>
       <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-hi-dashboard" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eureka-hi-dashboard" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="eurekaClient" type="9519ce18:MavenProjectsStructure$ProjectNode" />
@@ -213,11 +353,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="107" />
-    <option name="width" value="1750" />
-    <option name="height" value="970" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="-227" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -231,89 +371,117 @@
         <subPane>
           <expand>
             <path>
-              <item name="testSringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testSringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="testSpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testSpringCloud" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testSringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testSringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="testSpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testSpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="consulservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testSpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testSpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="consulservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testSpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testSpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="consulservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testSpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testSpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="consulservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testSpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testSpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="consulservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="consulservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testSpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testSpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="consulservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testSpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testSpringCloud" type="462c0819:PsiDirectoryNode" />
               <item name="eureka-hi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testSringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testSringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="testSpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testSpringCloud" type="462c0819:PsiDirectoryNode" />
               <item name="eureka-hi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testSringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testSringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="testSpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testSpringCloud" type="462c0819:PsiDirectoryNode" />
               <item name="eureka-hi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testSringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testSringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-hi" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="docker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testSringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testSringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="testSpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testSpringCloud" type="462c0819:PsiDirectoryNode" />
               <item name="eureka-hi" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testSringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testSringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="testSpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testSpringCloud" type="462c0819:PsiDirectoryNode" />
               <item name="eurekabase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="testSringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testSringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="testSpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testSpringCloud" type="462c0819:PsiDirectoryNode" />
               <item name="eurekaclient" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testSringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testSringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekaserver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testSringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testSringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekaserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testSringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testSringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekaserver" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/eurekaserver" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550135423669" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/eureka-hi" />
+      <recent name="$PROJECT_DIR$/eurekaserver" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/eureka-hi-dashboard/src/main/resources" />
       <recent name="E:\intelij\testSringCloud\eurekaservicecluster\src\main\resources" />
       <recent name="E:\intelij\testSringCloud\eurekaserver\src\main\resources" />
       <recent name="E:\intelij\testSringCloud\configclient\src\main\resources" />
@@ -332,7 +500,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Maven.eurekabase">
+  <component name="RunManager" selected="Application.ConsulServiceApplication">
     <configuration name="ConfigClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.ConfigClientApplication" />
       <module name="configclient" />
@@ -343,17 +511,23 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="ConfigserverApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.ConfigserverApplication" />
-      <module name="configserver" />
+    <configuration name="ConsulServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.consulservice.ConsulServiceApplication" />
+      <module name="consulservice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.example.consulservice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.EurekaServerApplication" />
@@ -365,6 +539,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ZipkinClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.ZipkinClientApplication" />
@@ -376,6 +553,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ZipkinServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.ZipkinServiceApplication" />
@@ -387,61 +567,99 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="configclient1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.ConfigClientApplication" />
       <module name="configclient" />
       <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=client1" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hystrix1-eureka-hi" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.eurekahidashboard.EurekaHiDashboardApplication" />
+      <module name="eureka-hi-dashboard" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=hystrix1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hystrix2-eureka-hi" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.eurekahidashboard.EurekaHiDashboardApplication" />
+      <module name="eureka-hi-dashboard" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=hystrix2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hystrixdashboard-eureka-hi" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.eurekahidashboard.EurekaHiDashboardApplication" />
+      <module name="eureka-hi-dashboard" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=hystrixdashboard" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="peer1EurekaServer" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.EurekaServiceClusterApplication" />
       <module name="eurekaservicecluster" />
       <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=peer1" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="peer1Test" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.EurekaClientApplication" />
       <module name="eurekaclient" />
       <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=peer1" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="peer2EurekaServer" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.EurekaServiceClusterApplication" />
       <module name="eurekaservicecluster" />
       <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=peer2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="peer2Test" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.EurekaClientApplication" />
       <module name="eurekaclient" />
       <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=peer2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="peer3EurekaServer" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.example.demo.EurekaServiceClusterApplication" />
       <module name="eurekaservicecluster" />
       <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=peer3" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="eurekaClient" />
@@ -452,6 +670,9 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" />
       <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="eurekabase" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
@@ -478,6 +699,7 @@
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
+      <method v="2" />
     </configuration>
     <configuration name="eurekaserver" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
@@ -502,6 +724,7 @@
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
+      <method v="2" />
     </configuration>
     <configuration name="eurekaserverpack" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
@@ -527,30 +750,132 @@
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="configclient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.ConfigClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="configserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.ConfigserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsulServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consulservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.consulservice.ConsulServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eurekaclient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.EurekaClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaHiDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-hi-dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekahidashboard.EurekaHiDashboardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eurekaserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServiceClusterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eurekaservicecluster" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.EurekaServiceClusterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekahiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-hi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.EurekahiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignSerivceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="feignservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.FeignSerivceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FeignSerivceBaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="feignservicebase" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.FeignSerivceBaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ribbonservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.RibbonServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonServiceBaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ribbonservicebase" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.RibbonServiceBaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipkinClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zipkinclient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.ZipkinClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZipkinServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zipkinservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.ZipkinServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuulservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.ZuulServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulservicebaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zuulservicebase" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.ZuulservicebaseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
+      <item itemvalue="Application.hystrix1-eureka-hi" />
+      <item itemvalue="Application.hystrix2-eureka-hi" />
+      <item itemvalue="Application.hystrixdashboard-eureka-hi" />
       <item itemvalue="Application.peer1Test" />
       <item itemvalue="Application.peer2Test" />
       <item itemvalue="Application.configclient1" />
@@ -560,19 +885,35 @@
       <item itemvalue="Maven.eurekabase" />
       <item itemvalue="Maven.eurekaserver" />
       <item itemvalue="Maven.eurekaserverpack" />
-      <item itemvalue="Application.ConfigserverApplication" />
+      <item itemvalue="Spring Boot.EurekahiApplication" />
+      <item itemvalue="Spring Boot.ConfigserverApplication" />
+      <item itemvalue="Spring Boot.FeignSerivceBaseApplication" />
+      <item itemvalue="Spring Boot.ZipkinServiceApplication" />
+      <item itemvalue="Spring Boot.ZipkinClientApplication" />
+      <item itemvalue="Spring Boot.EurekaClientApplication" />
+      <item itemvalue="Spring Boot.RibbonServiceApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.ConfigClientApplication" />
+      <item itemvalue="Spring Boot.ZuulServiceApplication" />
+      <item itemvalue="Spring Boot.RibbonServiceBaseApplication" />
+      <item itemvalue="Spring Boot.EurekaServiceClusterApplication" />
+      <item itemvalue="Spring Boot.FeignSerivceApplication" />
+      <item itemvalue="Spring Boot.ZuulservicebaseApplication" />
+      <item itemvalue="Spring Boot.EurekaHiDashboardApplication" />
+      <item itemvalue="Spring Boot.ConsulServiceApplication" />
       <item itemvalue="Application.ConfigClientApplication" />
       <item itemvalue="Application.EurekaServerApplication" />
       <item itemvalue="Application.ZipkinServiceApplication" />
       <item itemvalue="Application.ZipkinClientApplication" />
+      <item itemvalue="Application.ConsulServiceApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConsulServiceApplication" />
         <item itemvalue="Application.EurekaServerApplication" />
         <item itemvalue="Application.ZipkinServiceApplication" />
         <item itemvalue="Application.ZipkinClientApplication" />
         <item itemvalue="Application.ConfigClientApplication" />
-        <item itemvalue="Application.ConfigserverApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -586,6 +927,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536571498166</updated>
+      <workItem from="1547000538627" duration="17269000" />
+      <workItem from="1547174072989" duration="19419000" />
+      <workItem from="1547431911893" duration="3934000" />
+      <workItem from="1548402050706" duration="1672000" />
+      <workItem from="1548830353210" duration="7572000" />
+      <workItem from="1549855469294" duration="4456000" />
+      <workItem from="1549881757520" duration="5302000" />
+      <workItem from="1550028699695" duration="7488000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1538271855530</created>
@@ -604,6 +953,9 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67112000" />
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -614,37 +966,59 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-227" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.23190348" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3437058" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3281471" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858758" visible="true" weight="0.29825738" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49834985" visible="true" weight="0.19329074" />
       <window_info id="Structure" order="1" sideWeight="0.50141245" side_tool="true" weight="0.2533512" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="5" sideWeight="0.50141245" side_tool="true" weight="0.2533512" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997175" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32909605" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.50165015" side_tool="true" weight="0.19329074" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32866243" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987261" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32909605" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4985694" weight="0.25346535" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50143063" side_tool="true" weight="0.30843374" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32970297" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32909605" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="CheckStyle" order="13" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.23128742" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -655,343 +1029,384 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/eureka-hi-dashboard/src/main/java/com/example/eurekahidashboard/HelloController.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/configserver/src/main/resources/11application.properties">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.0.RC3/spring-cloud-netflix-hystrix-2.1.0.RC3.jar!/org/springframework/cloud/netflix/hystrix/HystrixCircuitBreakerConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="151">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.0.RC3/spring-cloud-netflix-hystrix-2.1.0.RC3.jar!/org/springframework/cloud/netflix/hystrix/EnableHystrix.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.18/hystrix-core-1.5.18.jar!/com/netflix/hystrix/Hystrix.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-632">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.1.0.RC2/spring-cloud-commons-2.1.0.RC2.jar!/org/springframework/cloud/commons/util/SpringFactoryImportSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-hi-dashboard/src/main/java/com/example/eurekahidashboard/EurekaHiDashboardApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-hi-dashboard/src/main/java/com/example/eurekahidashboard/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.jar!/com/netflix/hystrix/contrib/javanica/command/MethodExecutionAction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.jar!/com/netflix/hystrix/contrib/javanica/command/GenericCommand.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.18/hystrix-core-1.5.18.jar!/com/netflix/hystrix/HystrixCommand.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava/1.3.8/rxjava-1.3.8.jar!/rx/internal/operators/OnSubscribeDefer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava/1.3.8/rxjava-1.3.8.jar!/rx/internal/schedulers/ScheduledAction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-core/1.5.18/hystrix-core-1.5.18.jar!/com/netflix/hystrix/strategy/concurrency/HystrixContexSchedulerAction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava/1.3.8/rxjava-1.3.8.jar!/rx/internal/operators/OperatorSubscribeOn.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava/1.3.8/rxjava-1.3.8.jar!/rx/Observable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="1607" selection-start-line="1607" selection-end-line="1607" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava/1.3.8/rxjava-1.3.8.jar!/rx/internal/operators/OnSubscribeLift.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/reactivex/rxjava/1.3.8/rxjava-1.3.8.jar!/rx/internal/operators/OnSubscribeDoOnEach.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.jar!/com/netflix/hystrix/contrib/javanica/command/AbstractHystrixCommand.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaclient/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ribbonservice/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="255">
+          <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zuulservicebase/pom.xml">
+    <entry file="file://$PROJECT_DIR$/zuulservice/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-437">
-          <caret line="7" column="37" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="37" />
+        <state relative-caret-position="255">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/feignserivcebase/pom.xml">
+    <entry file="file://$PROJECT_DIR$/eurekaservicecluster/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configserver/src/main/java/com/example/demo/ConfigserverApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configserver/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configclient/src/main/resources/application-client1.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE.jar!/org/springframework/core/env/Environment.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE.jar!/org/springframework/core/env/ConfigurableEnvironment.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.0.0.RELEASE/spring-cloud-commons-2.0.0.RELEASE.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClientImportSelector.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.0.0.RELEASE/spring-cloud-netflix-eureka-client-2.0.0.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EnableEurekaClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/2.0.0.RELEASE/spring-cloud-commons-2.0.0.RELEASE.jar!/org/springframework/cloud/client/discovery/EnableDiscoveryClient.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configclient/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.0.5.RELEASE/spring-boot-2.0.5.RELEASE.jar!/org/springframework/boot/context/ContextIdApplicationContextInitializer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="53" column="70" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configclient/src/main/java/com/example/demo/ConfigClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="29" column="34" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zipkinserver/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/zipkinserver/src/main/java/com/example/demo/ZipkinServerApplication.java" />
-    <entry file="file://$PROJECT_DIR$/feignserivce/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feignserivce/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="24" column="21" selection-start-line="21" selection-start-column="8" selection-end-line="24" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configserver/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zipkinservice/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/configclient/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29">
-          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        <state relative-caret-position="255">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zipkinclient/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ribbonservicebase/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        <state relative-caret-position="120">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zipkinservice/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/feignservicebase/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zipkinservice/src/main/java/com/example/demo/ZipkinServiceApplication.java">
+    <entry file="file://$PROJECT_DIR$/feignservice/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zipkinclient/src/main/java/com/example/demo/ZipkinClientApplication.java">
+    <entry file="file://$PROJECT_DIR$/zuulservicebase/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="40" column="26" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="26" />
+        <state relative-caret-position="120">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zipkinclient/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/configserver/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        <state relative-caret-position="-177">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/resources/application-peer2.yml">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="63">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/example/demo/EurekaClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaserver/src/main/java/com/example/demo/EurekaServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaserver/src/main/resources/application-peer1.yml" />
-    <entry file="file://$PROJECT_DIR$/eurekaservicecluster/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaserver/src/main/resources/application-peer2.yml" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="129" selection-start-line="129" selection-end-line="129" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaservicecluster/src/main/java/com/example/demo/EurekaServiceClusterApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/resources/application-peer1.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="96" lean-forward="true" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaservicecluster/src/main/resources/application-peer2.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaservicecluster/src/main/resources/application-peer3.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaservicecluster/src/main/resources/application-peer1.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="70" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="70" />
+        <state relative-caret-position="90">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/java/com/example/demo/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="28" column="53" selection-start-line="28" selection-start-column="53" selection-end-line="28" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="26">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/devtool/maven/apache-maven-3.5.3/lib/maven-model-builder-3.5.3.jar!/org/apache/maven/model/pom-4.0.0.xml">
+    <entry file="file://$PROJECT_DIR$/feignservice/src/main/java/com/example/demo/controller/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="53" column="15" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="15" />
+        <state relative-caret-position="75">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/feignservice/src/main/java/com/example/demo/FeignSerivceApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="35" />
+        <state relative-caret-position="90">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaclient/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feignservice/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaserver/src/main/java/com/example/demo/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekaserver/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="46" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eurekaserver/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka-hi/src/main/docker/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/help.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaserver/src/main/docker/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/eureka-hi/src/main/java/com/example/demo/EurekahiApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="5" selection-end-column="11" />
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaserver/pom.xml">
+    <entry file="file://$PROJECT_DIR$/eurekaserver/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1011">
-          <caret line="55" column="12" selection-start-line="13" selection-start-column="4" selection-end-line="55" selection-end-column="12" />
+        <state relative-caret-position="15">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eurekabase/pom.xml">
+    <entry file="file://$PROJECT_DIR$/eureka-hi/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/eurekaclient/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="30">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-hi/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        <state relative-caret-position="307">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-consul/2.0.1.RELEASE/spring-cloud-consul-2.0.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-consul-discovery/2.0.1.RELEASE/spring-cloud-starter-consul-discovery-2.0.1.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consulservice/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-hi/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="60">
+          <caret line="4" column="40" lean-forward="true" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consulservice/src/main/java/com/example/consulservice/ConsulServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eurekabase/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consulservice/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1012,7 +1427,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1047,7 +1462,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>zipkinservice</last-edited>
+          <last-edited>eureka-hi</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

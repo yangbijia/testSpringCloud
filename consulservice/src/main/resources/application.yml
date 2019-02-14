@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+  application:
+    name: consul-ybj
+server:
+  port: 8501

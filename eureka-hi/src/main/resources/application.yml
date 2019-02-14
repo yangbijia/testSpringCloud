@@ -1,6 +1,7 @@
 eureka:
   client:
     serviceUrl:
+      # 访问docker容器名
       defaultZone: http://eurekaserver:8761/eureka/
 server:
   port: 8771

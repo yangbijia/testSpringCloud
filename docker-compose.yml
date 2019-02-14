@@ -1,0 +1,12 @@
+version: '3'
+services:
+  eurekaserver:
+    image: forezp/eurekaserver
+    restart: always
+    ports:
+      - 8761:8761
+  eureka-hi:
+    image: forezp/eureka-hi
+    restart: always
+    ports:
+      - 8771:8771

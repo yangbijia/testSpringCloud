@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: eureka-hi-hystrix2
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+server:
+  port: 8802
+
+hystrix:
+  threadpool:
+    # default: 默认参数，作用于所有的hystrix客户端
+    default:
+        coreSize: 10
+  command:
+    default:
+      fallback:
+        enabled: true
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 2000

@@ -15,7 +15,7 @@
 		<groupId>com.example</groupId>
 		<artifactId>feignserivcebase</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath>../feignservicebase</relativePath>
 	</parent>
 
 	<dependencies>
